@@ -26,7 +26,7 @@ public class MatchResult extends JFrame {
     public static void main(String[] args) {
         SwingConsole.run(new MatchResult(), 400, 200);
     }
-
+    //variables
     private String lastScoreTeam = "N/A";
     private long team1Score = 0;
     private long team2Score = 0;
